@@ -1,0 +1,29 @@
+:root {
+  background-color: #242424;
+}
+.cuadro-rojo{
+  background-color: red;
+  height: 500px;
+  width: 600px;
+  margin: auto;
+  margin-top: 150px;
+  position: relative;
+  
+  
+}
+.interior{
+  background-color: white;
+  height: 350px;
+  width: 450px;
+  margin: auto;
+  margin-top: -420px;
+  position: relative;
+  
+  
+}
+.titulo{
+  color: orange;
+  margin-left: 500px;
+  margin-top: -340px;
+  
+}
